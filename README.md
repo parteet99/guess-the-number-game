@@ -7,6 +7,8 @@ Here you are given 10 chances to guess the number between 1 and 100
 
 
 -- Tech Stack used: <br>
-HTML
-CSS
-JavaScript
+HTML <br>
+CSS  <br>
+JavaScript  <br>
+
+-- Author:
